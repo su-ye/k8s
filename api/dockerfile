@@ -1,2 +1,2 @@
-From k8s.gcr.io/kube-proxy
+From k8s.gcr.io/kube-apiserver:v1.13.1
 MAINTAINER polarwu <547636195@qq.com>
